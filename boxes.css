@@ -1,0 +1,63 @@
+.box{
+    border-style: solid;
+    border-width: 4px;
+    background: white;
+    border-radius: 5%;
+    margin: 150px auto;
+    width: 200px;
+    padding: 40px;
+    text-align: center;
+    border-color: rgb(255, 175, 188);
+}
+.tecka{
+    width: 40px;
+    height: 40px;
+    background-color: pink;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+.tlacitko{
+    width: 80px;
+    height: 20px;
+    background-color: pink;
+    border-radius: 10%;
+    margin: 0 auto;
+}
+
+.box-2{
+    border-style: solid;
+    border-width: 4px;
+    background: white;
+    border-radius: 5%;
+    margin: 150px auto;
+    width: 200px;
+    padding: 40px;
+    text-align: center;
+    border-color: rgb(0, 242, 255);
+}
+
+.tecka-2{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(0, 242, 255);
+    border-radius: 100%;
+    margin: 0 auto;
+}
+
+.tlacitko-2{
+    width: 80px;
+    height: 20px;
+    background-color:rgb(0, 242, 255);
+    border-radius: 10%;
+    margin: 0 auto;
+}
+.ruzova
+{
+    color: rgb(251, 71, 101);
+}
+.modra{
+    color: blue;
+}
+body{
+    background-color:rgb(171, 166, 166) ;
+}
