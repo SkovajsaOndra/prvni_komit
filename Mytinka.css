@@ -22,3 +22,7 @@ table, tr, td{
 .tlacitko:hover{
     background-color: rgba(131, 131, 131, 0.6);
 }
+.nadpis{
+    text-align: center;
+    color: burlywood;
+}
