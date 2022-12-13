@@ -1,0 +1,48 @@
+.horni{ background: white;
+    border: 5px solid rgba(225, 225, 251, 0.511);
+    height: 100px;
+    font-size: larger;
+    text-align: center;
+
+}
+.stred-leva{ background: white;
+    border: 5px solid rgba(225, 225, 251, 0.511);
+    height: 500px;
+    width: 50%;
+    float: left;
+
+}
+
+.stred-prava{background: white;
+    border: 5px solid rgba(225, 225, 251, 0.511);
+    height: 500px;
+
+}
+.dolni{background: white;
+    border: 5px solid rgba(225, 225, 251, 0.511);
+    height:100px;
+    font-size: larger;
+
+}
+
+
+.rám1{
+    border: 5px blue solid; 
+    padding: 4px;
+    margin-left: 15%;
+
+}
+
+.barvaodkazu{
+    color: rgb(255, 0, 0);
+}
+
+
+
+.obrazek{
+    margin-top: 80px;
+}
+
+.zarovnani{
+    text-align: center;
+}
